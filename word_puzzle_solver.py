@@ -4,11 +4,6 @@ Created on Fri Dec 22 23:51:08 2023
 
 @author: Feyza
 """
-my_name = "Ayse Feyza Birer"
-my_id = "220102002033"
-my_email = "a.birer2022@gtu.edu.tr"
-
-
 
 words = [] 
 board = []
